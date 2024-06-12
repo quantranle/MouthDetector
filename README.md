@@ -122,7 +122,7 @@ vs.stop()
 ```
 
 ## Demo
-![Real-time video demo](RealtimeDemo_MouthCheck.gif)
+![Real-time video demo](./videos/RealtimeDemo_MouthCheck.gif)
 
 ## Citation
 If you use this code in your research, please cite our paper:
