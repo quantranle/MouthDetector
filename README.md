@@ -22,7 +22,7 @@ python detect_open_mouth.py
 ## Code Explanation
 
 ## Demo
-![Real-time video demo](RealtimeDemo_MouthCheck.mp4)
+![Real-time video demo](RealtimeDemo_MouthCheck.gif)
 
 ## Citation
 If you use this code in your research, please cite our paper:
